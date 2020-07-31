@@ -1,0 +1,17 @@
+#head{
+    color: blanchedalmond;
+    background-color: cadetblue;
+  width: 1fr;
+    padding-left: 500px;
+}
+#para{
+    background-color: #ff7f50;
+    color: darkblue;
+    width: fit-content;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+body{
+    background-color: brown;
+}
